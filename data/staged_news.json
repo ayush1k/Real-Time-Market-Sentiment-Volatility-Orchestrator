@@ -1,1 +1,20 @@
-[{"ticker": "AAPL", "headline": "Apple announces new AI features", "timestamp": "2024-01-01T00:00:00", "content": "AI is the future for Apple."}, {"ticker": "MSFT", "headline": "Microsoft cloud growth", "timestamp": "2024-01-01T00:01:00", "content": "Azure is doing well."}]
+[
+    {
+        "ticker": "AAPL",
+        "headline": "Apple announces new AI features for upcoming iPhone",
+        "timestamp": "2026-05-06T15:21:05.126864",
+        "content": "Apple is expected to integrate advanced generative AI into its next generation of devices, potentially boosting sales."
+    },
+    {
+        "ticker": "MSFT",
+        "headline": "Microsoft Azure sees record growth in cloud revenue",
+        "timestamp": "2026-05-06T15:21:05.126871",
+        "content": "Strong demand for cloud services and AI infrastructure drives Microsoft's quarterly earnings beyond expectations."
+    },
+    {
+        "ticker": "AAPL",
+        "headline": "Supply chain issues might affect iPhone production",
+        "timestamp": "2026-05-06T15:21:05.126873",
+        "content": "Reports suggest that components for high-end iPhone models are facing delays in several key regions."
+    }
+]

@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project specific
+airflow/
+frontend/node_modules/
+*.log
+*.out
+test_ch.py

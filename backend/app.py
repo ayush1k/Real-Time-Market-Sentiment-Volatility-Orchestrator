@@ -10,7 +10,7 @@ CORS(app) # Enable CORS for React frontend
 CLICKHOUSE_HOST = os.getenv('CLICKHOUSE_HOST', 'localhost')
 CLICKHOUSE_PORT = int(os.getenv('CLICKHOUSE_PORT', 8123))
 CLICKHOUSE_USER = os.getenv('CLICKHOUSE_USER', 'default')
-CLICKHOUSE_PASSWORD = os.getenv('CLICKHOUSE_PASSWORD', '')
+CLICKHOUSE_PASSWORD = os.getenv('CLICKHOUSE_PASSWORD', 'password')
 
 def get_clickhouse_client():
     return clickhouse_connect.get_client(

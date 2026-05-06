@@ -1,27 +1,42 @@
 [
     {
         "ticker": "AAPL",
-        "headline": "Apple announces new AI features",
-        "timestamp": "2024-01-01T00:00:00",
-        "content": "AI is the future for Apple.",
+        "headline": "Apple announces new AI features for upcoming iPhone",
+        "timestamp": "2026-05-06T15:21:05.126864",
+        "content": "Apple is expected to integrate advanced generative AI into its next generation of devices, potentially boosting sales.",
         "sentiment_score": 0.8,
         "volatility_drivers": [
-            "AI technological adoption and integration",
-            "Market competition in generative AI",
-            "Impact on future hardware sales cycles",
-            "Investor expectations for innovation and growth"
+            "Generative AI integration",
+            "iPhone sales projections",
+            "Technological innovation competition",
+            "Consumer adoption rates"
         ]
     },
     {
         "ticker": "MSFT",
-        "headline": "Microsoft cloud growth",
-        "timestamp": "2024-01-01T00:01:00",
-        "content": "Azure is doing well.",
-        "sentiment_score": 0.8,
+        "headline": "Microsoft Azure sees record growth in cloud revenue",
+        "timestamp": "2026-05-06T15:21:05.126871",
+        "content": "Strong demand for cloud services and AI infrastructure drives Microsoft's quarterly earnings beyond expectations.",
+        "sentiment_score": 0.9,
         "volatility_drivers": [
             "Cloud revenue growth",
-            "Azure market share",
-            "Enterprise tech spending"
+            "AI infrastructure demand",
+            "Quarterly earnings performance",
+            "Market expectations"
+        ]
+    },
+    {
+        "ticker": "AAPL",
+        "headline": "Supply chain issues might affect iPhone production",
+        "timestamp": "2026-05-06T15:21:05.126873",
+        "content": "Reports suggest that components for high-end iPhone models are facing delays in several key regions.",
+        "sentiment_score": -0.65,
+        "volatility_drivers": [
+            "supply chain disruption",
+            "component shortages",
+            "production delays for high-end models",
+            "regional manufacturing bottlenecks",
+            "revenue uncertainty"
         ]
     }
 ]
